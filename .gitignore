@@ -1,1 +1,5 @@
 *.in
+*.cmi
+*.cmx
+*.exe
+*.o
